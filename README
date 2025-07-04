@@ -1,0 +1,72 @@
+## 📊 Data Analytics Virtual Internship — Intern Intelligence
+
+This repository contains my completed work for the **Data Analytics Virtual Internship** offered by **Intern Intelligence**. The focus is on applying real-world analytics techniques using Python, statistical methods, and big data tools.
+
+---
+
+### 🔖 Tasks Completed
+
+#### ✅ Task 1: Predictive Analytics Model
+
+* Built a **regression model** to predict temperature using weather data.
+* Used techniques such as:
+
+  * **Data cleaning** and **feature engineering**
+  * **ARIMA** time series forecasting
+  * **XGBoost regression**
+* Evaluated model performance using **RMSE** and plotted actual vs predicted values.
+
+#### ✅ Task 3: Advanced Statistical Analysis
+
+* Conducted **correlation analysis** to explore relationships between customer behavior and spending.
+* Visualized data using:
+
+  * **Heatmaps**
+  * **Histograms**
+* Derived actionable insights about spending trends and marketing response.
+
+#### ✅ Task 4: Big Data Analysis
+
+* Analyzed and visualized a **large customer dataset** with over 2,000 records.
+* Performed:
+
+  * Data preprocessing
+  * Feature extraction from datetime fields
+  * Creation of new metrics (e.g., `TotalSpent`)
+* Used **efficient pandas operations** to handle and explore the dataset.
+
+---
+
+### 🧠 Skills Demonstrated
+
+* Exploratory Data Analysis (EDA)
+* Predictive Modeling (ARIMA, XGBoost)
+* Advanced Statistical Techniques (correlation, distributions)
+* Big Data Handling in Python (pandas, seaborn, matplotlib)
+
+---
+
+### 🛠️ Technologies Used
+
+* Python (pandas, numpy, matplotlib, seaborn, statsmodels, xgboost)
+* Google Colab
+* GitHub
+
+---
+
+### 📁 File Structure
+
+```
+├── Task_1_Predictive_Model.ipynb
+├── Task_3_Statistical_Analysis.ipynb
+├── Task_4_Big_Data_Analysis.ipynb
+├── README.md
+```
+
+---
+
+### 📌 Note
+
+This work is part of a simulated internship experience and demonstrates my ability to apply data analytics concepts in a practical setting.
+
+
